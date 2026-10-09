@@ -1,0 +1,5 @@
+# Editor/artifact metadata
+*.artifact.json
+.vercel/
+.DS_Store
+Thumbs.db
